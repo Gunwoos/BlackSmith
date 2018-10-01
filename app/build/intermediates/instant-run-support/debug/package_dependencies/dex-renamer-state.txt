@@ -1,0 +1,4 @@
+#Thu Jun 01 22:52:26 KST 2017
+base.0=D\:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_a0addc617ab38241c8b92719834bdc132fd727c0
+renamed.0=classes.dex
+file.0=D\:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_a0addc617ab38241c8b92719834bdc132fd727c0\\classes.dex

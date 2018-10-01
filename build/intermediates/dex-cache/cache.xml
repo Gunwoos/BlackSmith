@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Study\Language\Projects\Android\BlackSmith_ver_02\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Study\Language\Projects\Android\BlackSmith_ver_02\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b3e266a25be5ac035df54e7b584d23004858b2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Study\Language\Projects\Android\BlackSmith_ver_02\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed705ebf4707ac584a7e2b96ed1167e68cc3d1ff">
+        <dex dex="D:\Study\Language\Projects\Android\BlackSmith_ver_02\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1fece0aa0f301dc1ed79aa48fb54e8ae1103de75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Study\Language\Projects\Android\sources\chap18\SelectImage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="574448f4af0b5e22021636471cb0f9e86b890884">
+        <dex dex="D:\Study\Language\Projects\Android\sources\chap18\SelectImage\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e7ae003734e2c56b5fc90b6891c8cf64a0fa9961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Study\Language\Projects\Android\sources\chap18\SelectImage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Study\Language\Projects\Android\sources\chap18\SelectImage\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21a79271559f610a1d4678bb75a41e6b393f4e39\classes.dex" />
+    </item>
+
+</items>

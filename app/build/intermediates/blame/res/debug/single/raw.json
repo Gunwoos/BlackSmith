@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gray.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\gray.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\attack_char.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\attack_char.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hammer.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\hammer.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_over.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\game_over.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gray.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\gray.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bgm_main.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\bgm_main.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boss_ap.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\boss_ap.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\button.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boss_bg.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\boss_bg.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\boss_ap.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\boss_ap.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\attack.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\attack.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monster_die.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\monster_die.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\skill.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\skill.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hammer.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\hammer.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fail.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\fail.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\attack_char.ogg",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\attack_char.ogg"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bgm_start.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\bgm_start.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\attack.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\attack.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\success.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\success.mp3"
+    },
+    {
+        "merged": "D:\\source\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\success.mp3",
+        "source": "D:\\source\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\success.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bgm_main.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\bgm_main.mp3"
+    },
+    {
+        "merged": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button.mp3",
+        "source": "D:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\src\\main\\res\\raw\\button.mp3"
+    }
+]

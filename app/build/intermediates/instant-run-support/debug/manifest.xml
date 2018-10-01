@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kr.co.company.BlackSmith_ver_02"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="kr.co.company.BlackSmith_ver_02.StartActivity"
+            android:icon="@drawable/idle"
+            android:label="BlackSmith of Legend" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="kr.co.company.BlackSmith_ver_02.MusicService"
+            android:enabled="true" />
+
+        <activity
+            android:name="kr.co.company.BlackSmith_ver_02.PlayActivity"
+            android:icon="@drawable/idle"
+            android:label="BlackSmith of Legend" />
+
+        <service
+            android:name="com.android.tools.fd.runtime.InstantRunService"
+            android:exported="true" />
+    </application>
+
+</manifest>

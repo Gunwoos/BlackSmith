@@ -1,0 +1,7 @@
+#Mon Jun 05 13:08:38 KST 2017
+base.0=D\:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1fece0aa0f301dc1ed79aa48fb54e8ae1103de75
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b3e266a25be5ac035df54e7b584d23004858b2fc\\classes.dex
+base.1=D\:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b3e266a25be5ac035df54e7b584d23004858b2fc
+file.0=D\:\\Study\\Language\\Projects\\Android\\BlackSmith_ver_02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1fece0aa0f301dc1ed79aa48fb54e8ae1103de75\\classes.dex
